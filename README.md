@@ -1,4 +1,4 @@
-DevOps & Cloud Beginner Program 60 hours Mon–Fri
+AWS DevOps & Cloud Beginner Program 60 hours Mon–Fri
 
 Total Duration: 6 Weeks / 60 hours
 
