@@ -1,0 +1,7 @@
+Day 28 (Wed): New Relic Hands-On
+
+•	Install New Relic agent
+
+•	Monitor EC2 / application
+
+•	View dashboards
