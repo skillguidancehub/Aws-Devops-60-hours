@@ -1,0 +1,7 @@
+Day 2 (Tue): Linux File System
+
+•	Linux directory structure
+
+•	ls, cd, pwd
+
+•	Create files & folders
